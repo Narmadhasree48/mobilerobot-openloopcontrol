@@ -1,6 +1,6 @@
 # MobileRobot-Openloopcontrol
-Name:NARMADHA SREE S
-reg no:212223240105
+Name:NARMADHA SREE S                    
+reg no:212223240105      
 Department:AIML
 ## Aim:
 
