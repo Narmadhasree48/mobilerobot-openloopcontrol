@@ -1,4 +1,7 @@
 # MobileRobot-Openloopcontrol
+Name:NARMADHA SREE S                    
+reg no:212223240105      
+Department:AIML
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
